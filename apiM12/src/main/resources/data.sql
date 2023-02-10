@@ -1,0 +1,18 @@
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Beta Mini Trial',40.00,'../img/catalogo/50cc/BetaMiniTrial50cc.jpg','50cc');'Beta Mini Trial',40.00,'../img/catalogo/50cc/BetaMiniTrial50cc.jpg','50cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('GasGas TXT Boy',40.00,'../img/catalogo/50cc/GasGasTXTBoy50cc.jpg','50cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Vertigo Mini Vandal',40.00,'../img/catalogo/50cc/vertigoMiniVandal50cc.jpg','50cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Beta Evo 2T 2021',50.00,'../img/catalogo/125cc/Beta_Evo_2T_2021.jpg','125cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Vertigo Combat Vertical 2019',50.00,'../img/catalogo/125cc/VertigoCombatVertical2019.jpg','125cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('GasGas TXT Racing 2023',50.00,'../img/catalogo/125cc/GasGasTXTRacing2023.jpg','125cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Beta Evo 2021 4t',60.00,'../img/catalogo/200cc/BetaEvo2021_4t.jpg','200cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Vertigo Vertical 2020',60.00,'../img/catalogo/200cc/VertigoVertical2020.jpg','200cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('GasGas 2008',60.00,'../img/catalogo/200cc/GasGas2008.jpg','200cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('GasGas TXT Racing 2021',70.00,'../img/catalogo/250cc/GasGasTXTRacing2021.jpg','250cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Montesa Cota 4rt Race Replica 2015',70.00,'../img/catalogo/250cc/MontesaCota4rtRaceReplica2015.jpg','250cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Beta Evo 4t Factory',70.00,'../img/catalogo/250cc/BetaEvo4tFactory.jpg','250cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Montesa Cota 4rt 2017',80.00,'../img/catalogo/300cc/MontesaCota4rt2017.jpg','300cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Gasgas TXT Racing 2023',80.00,'../img/catalogo/300cc/GasgasTXTRacing_2023.jpg','300cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Sherco 300 ST Factory',80.00,'../img/catalogo/300cc/Sherco300stFactory.jpg','300cc');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('Yamaha TY-E',80.00,'../img/catalogo/Electricas/YamahaTY-E.png','Electrica');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('GasGas TXT E 2020',80.00,'../img/catalogo/Electricas/GasGas_TXT_E_2020.jpg','Electrica');
+INSERT INTO motos (modelo, precio, img_url, categoria) VALUES ('TRS ON-E',80.00,'../img/catalogo/Electricas/TRS_ON-E.jpg','Electrica');
